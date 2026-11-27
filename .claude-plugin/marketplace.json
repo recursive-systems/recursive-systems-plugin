@@ -1,0 +1,19 @@
+{
+  "name": "recursive-systems",
+  "owner": {
+    "name": "Recursive Systems LLC",
+    "email": "bradley@recursivesystems.dev",
+    "url": "https://recursivesystems.dev"
+  },
+  "metadata": {
+    "description": "Recursive Systems' plugin for HVAC companies."
+  },
+  "plugins": [
+    {
+      "name": "recursive-systems",
+      "source": "./plugins/recursive-systems",
+      "version": "1.0.0",
+      "description": "See how often your heating and cooling company shows up when people nearby search Google Maps, Google and AI tools, and who shows up instead"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "recursive-systems",
+  "displayName": "Recursive Systems",
+  "version": "1.0.0",
+  "description": "See how often your heating and cooling company shows up when people nearby search Google Maps, Google and AI tools, and who shows up instead",
+  "author": {
+    "name": "Recursive Systems LLC",
+    "url": "https://recursivesystems.dev",
+    "email": "bradley@recursivesystems.dev"
+  },
+  "homepage": "https://recursivesystems.dev",
+  "repository": "https://github.com/recursive-systems/recursive-systems-plugin",
+  "license": "MIT",
+  "keywords": [
+    "hvac",
+    "local search",
+    "google maps",
+    "ai search",
+    "seo",
+    "monthly report",
+    "reviews",
+    "competitors"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://recursivesystems.dev/docs/claude/",
+  "supportUrl": "https://recursivesystems.dev/support/",
+  "privacyPolicyUrl": "https://recursivesystems.dev/privacy/#privacy-notice",
+  "termsOfServiceUrl": "https://recursivesystems.dev/terms/"
+}
