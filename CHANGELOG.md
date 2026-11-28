@@ -13,3 +13,4 @@ First release.
 - Ask for more detail whenever you want it: Google Maps by time of day, day of the week and distance; each Google
   search by service and town; the questions the AI tools were asked.
 - Monitoring (more Google Maps checks at other times of day) and a monthly report, both off until you turn them on.
+- Your account's report emails and marketing email can be turned on or off from Claude.
